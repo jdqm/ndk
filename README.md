@@ -2,7 +2,7 @@
 
 * [一、CMake入门基础](chapter-1/README.md)
   * [1.1 创建NDK项目](chapter-1/1.1.md)
-  * [1.2 CMake编译基础语法](chapter-1/1.1.md)
+  * [1.2 CMake编译基础语法](chapter-1/1.2.md)
   
 * [二、Java与JNI交互](chapter-2/README.md)
   * [2.1 在Java中调用JNI方法](chapter-2/2.1.md)
